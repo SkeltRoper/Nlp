@@ -63,10 +63,9 @@ The first run downloads a little NLTK data, so keep your internet on for that la
 
 | Member  | Role                                   |
 |---------|----------------------------------------|
-| Abobakr | Data Preprocessing & Feature Engineering |
-| Ahmed   | Model Training & Evaluation            |
-| Osama   | Streamlit App & Visualization          |
-
+| Ahmed | Data Preprocessing & Feature Engineering |
+| Osama   | Model Training & Evaluation            |
+| Abobakr   | Streamlit App & Visualization        |
 ---
 
 ## 🛠️ Tech stack
