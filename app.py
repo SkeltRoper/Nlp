@@ -1,7 +1,7 @@
 """
 NLP Project Dashboard — Streamlit Frontend
 ==========================================
-A modern, AI-stylexxxcxc dashboard for a text-classification NLP project.
+A modern, AI-style dashboard for a text-classification NLP project.
 
 It loads YOUR existing artifacts (no training happens here):
     - a trained scikit-learn model        (.pkl)
